@@ -1,0 +1,46 @@
+.color{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.item-wrap{
+  flex: 1 0 20%;
+  max-width: 20%;
+  padding: 10px;
+}
+
+.item{
+  border: 1 px solid #eee;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 2px 2px 2px rgba(0,0,0,.3);
+}
+
+.color-hex{
+  height: 90px;
+}
+
+.color-name{
+  padding: 5px;
+}
+
+.filter{
+  padding: 0 10px;
+  display: flex;
+}
+
+.formInput{
+  flex: 1 0 50%;
+  padding: 0 10px;
+}
+
+label{
+  display: block;
+  margin-bottom: 5px;
+}
+
+select{
+  padding: 5px;
+  width: 100%;
+}
