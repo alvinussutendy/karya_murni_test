@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{79CCE26E-0C8D-4AC2-9E1B-B857F09BBA56}"
+	ProjectSection(SolutionItems) = preProject
+		test\test_karya_murni\git\karya_murni_test\.gitignore = test\test_karya_murni\git\karya_murni_test\.gitignore
+		test\test_karya_murni\git\karya_murni_test\package.json = test\test_karya_murni\git\karya_murni_test\package.json
+		test\test_karya_murni\git\karya_murni_test\README.md = test\test_karya_murni\git\karya_murni_test\README.md
+		test\test_karya_murni\git\karya_murni_test\tsconfig.json = test\test_karya_murni\git\karya_murni_test\tsconfig.json
+		test\test_karya_murni\git\karya_murni_test\yarn.lock = test\test_karya_murni\git\karya_murni_test\yarn.lock
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "public", "public", "{F6481289-7A2B-469C-9E56-AE006E65CFDA}"
+	ProjectSection(SolutionItems) = preProject
+		test\test_karya_murni\git\karya_murni_test\public\favicon.ico = test\test_karya_murni\git\karya_murni_test\public\favicon.ico
+		test\test_karya_murni\git\karya_murni_test\public\index.html = test\test_karya_murni\git\karya_murni_test\public\index.html
+		test\test_karya_murni\git\karya_murni_test\public\logo192.png = test\test_karya_murni\git\karya_murni_test\public\logo192.png
+		test\test_karya_murni\git\karya_murni_test\public\logo512.png = test\test_karya_murni\git\karya_murni_test\public\logo512.png
+		test\test_karya_murni\git\karya_murni_test\public\manifest.json = test\test_karya_murni\git\karya_murni_test\public\manifest.json
+		test\test_karya_murni\git\karya_murni_test\public\robots.txt = test\test_karya_murni\git\karya_murni_test\public\robots.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D444AC02-1197-47AE-ACB9-F96AD76E00A0}"
+	ProjectSection(SolutionItems) = preProject
+		test\test_karya_murni\git\karya_murni_test\src\App.css = test\test_karya_murni\git\karya_murni_test\src\App.css
+		test\test_karya_murni\git\karya_murni_test\src\App.test.tsx = test\test_karya_murni\git\karya_murni_test\src\App.test.tsx
+		test\test_karya_murni\git\karya_murni_test\src\App.tsx = test\test_karya_murni\git\karya_murni_test\src\App.tsx
+		test\test_karya_murni\git\karya_murni_test\src\index.css = test\test_karya_murni\git\karya_murni_test\src\index.css
+		test\test_karya_murni\git\karya_murni_test\src\index.tsx = test\test_karya_murni\git\karya_murni_test\src\index.tsx
+		test\test_karya_murni\git\karya_murni_test\src\logo.svg = test\test_karya_murni\git\karya_murni_test\src\logo.svg
+		test\test_karya_murni\git\karya_murni_test\src\react-app-env.d.ts = test\test_karya_murni\git\karya_murni_test\src\react-app-env.d.ts
+		test\test_karya_murni\git\karya_murni_test\src\serviceWorker.ts = test\test_karya_murni\git\karya_murni_test\src\serviceWorker.ts
+		test\test_karya_murni\git\karya_murni_test\src\setupTests.ts = test\test_karya_murni\git\karya_murni_test\src\setupTests.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "node_modules", "node_modules", "{7BAA790C-1A81-451C-B1F1-F5854507C80F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "components", "components", "{91A36E5E-9CA6-4F15-A07D-971811107641}"
+	ProjectSection(SolutionItems) = preProject
+		test\test_karya_murni\git\karya_murni_test\src\components\Color.tsx = test\test_karya_murni\git\karya_murni_test\src\components\Color.tsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6481289-7A2B-469C-9E56-AE006E65CFDA} = {79CCE26E-0C8D-4AC2-9E1B-B857F09BBA56}
+		{D444AC02-1197-47AE-ACB9-F96AD76E00A0} = {79CCE26E-0C8D-4AC2-9E1B-B857F09BBA56}
+		{7BAA790C-1A81-451C-B1F1-F5854507C80F} = {79CCE26E-0C8D-4AC2-9E1B-B857F09BBA56}
+		{91A36E5E-9CA6-4F15-A07D-971811107641} = {D444AC02-1197-47AE-ACB9-F96AD76E00A0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A718E634-D94A-492B-99FC-6BB59C76B123}
+	EndGlobalSection
+EndGlobal
